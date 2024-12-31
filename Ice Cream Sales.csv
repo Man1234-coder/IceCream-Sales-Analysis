@@ -1,0 +1,121 @@
+﻿order_id,order_date,Flavors,Flavors Types,quantity,Weight,Price,Region,City
+1,2015-01-01,"""Vanilla""", Classic Flavors,1,1,13.25,North,New Delhi 
+2,2015-01-01,"""Chocolate""", Classic Flavors,1,1,16,North,Agra 
+2,2015-01-01,"""Strawberry""", Classic Flavors,1,1,18.5,North,Jaipur 
+2,2015-01-01,"""Mint Chocolate Chip""", Classic Flavors,1,1,20.75,North,Lucknow 
+2,2015-01-01,"""Coffee""", Classic Flavors,1,1,16,South,Hyderabad 
+2,2015-01-01,"""Butter Pecan""", Classic Flavors,1,1,20.75,South,Coimbatore 
+3,2015-01-01,"""Cookies and Cream""", Classic Flavors,1,1,16.5,West,Mumbai 
+3,2015-01-01,"""Chocolate Chip""", Classic Flavors,1,1,20.75,South,Hyderabad 
+4,2015-01-01,"""Neapolitan (Vanilla, Chocolate, and Strawberry)""", Classic Flavors,1,1,16.5,East,Kolkata 
+5,2015-04-13,"""Mango""", Fruity Flavors,1,1,16.5,East,Bhubaneswar 
+6,2015-04-13,"""Raspberry""", Fruity Flavors,1,1,12.75,East,Patna 
+6,2015-04-13,"""Lemon Sorbet""", Fruity Flavors,1,1,12,East,Ranchi 
+7,2015-04-13,"""Peach""", Fruity Flavors,1,1,12.5,East,Guwahati 
+8,2015-04-13,"""Blueberry""", Fruity Flavors,1,1,12.5,North,Shimla 
+9,2015-05-16,"""Watermelon""", Fruity Flavors,1,1,12,North,Jammu 
+9,2015-05-16,"""Pineapple""", Fruity Flavors,1,1,12,South,Chennai 
+9,2015-05-16,"""Blackberry""", Fruity Flavors,1,1,20.5,South,Bangalore 
+9,2015-05-16,"""Orange Cream""", Fruity Flavors,1,1,20.75,East,Cuttack 
+9,2015-05-16,"""Cherry""", Fruity Flavors,1,2,12.5,East,Jamshedpur 
+9,2015-05-16,"""Acai Berry""", Fruity Flavors,1,2,12,Northeast,Guwahati 
+9,2015-05-16,"""Coconut""", Fruity Flavors,1,2,20.75,Northeast,Imphal 
+9,2015-05-16,"""Strawberry Cheesecake""", Fruity Flavors,1,1.25,20.75,Northeast,Aizawl 
+9,2015-05-16,"""Almond Joy (Chocolate, coconut, and almond)""", Nutty Flavors,1,1.25,12,Northeast,Itanagar 
+10,2015-05-16,"""Pistachio""", Nutty Flavors,1,1.25,20.25,North,Agra 
+10,2015-05-16,"""Hazelnut""", Nutty Flavors,1,1.25,20.75,North,Jaipur 
+11,2015-05-16,"""Macadamia Nut""", Nutty Flavors,1,2,20.75,North,Lucknow 
+11,2015-05-16,"""Walnut""", Nutty Flavors,1,2,20.75,Northeast,Imphal 
+11,2015-05-16,"""Peanut Butter Cup""", Nutty Flavors,1,2,16.75,Northeast,Shillong 
+11,2015-05-16,"""Peanut Butter Chocolate Chip""", Nutty Flavors,1,2,15.25,Northeast,Kohima 
+12,2015-05-16,"""Cashew""", Nutty Flavors,1,2,20.75,East,Bhubaneswar 
+12,2015-05-16,"""Chocolate Fudge Brownie""", Chocolate-Based Flavors,1,2,12.75,South,Madurai 
+12,2015-06-29,"""Chocolate Mint""", Chocolate-Based Flavors,1,2,20.75,West,Nagpur 
+12,2015-06-29,"""Chocolate Chip Cookie Dough""", Chocolate-Based Flavors,1,2,16.5,West,Vadodara 
+13,2015-06-29,"""Chocolate Peanut Butter""", Chocolate-Based Flavors,1,2,20.25,East,Kolkata 
+14,2015-06-29,"""Triple Chocolate""", Chocolate-Based Flavors,1,2,12,East,Bhubaneswar 
+15,2015-06-29,"""Mocha""", Chocolate-Based Flavors,1,1,12,East,Patna 
+15,2015-06-29,"""Chocolate Almond""", Chocolate-Based Flavors,1,1,18.5,East,Ranchi 
+15,2015-06-29,"""Chocolate Caramel Swirl""", Chocolate-Based Flavors,1,1,20.75,East,Guwahati 
+15,2015-06-29,"""Salted Caramel""", Caramel & Toffee Flavors,1,1,12,East,Shillong 
+16,2015-06-29,"""Caramel Swirl""", Caramel & Toffee Flavors,1,1,17.95,East,Cuttack 
+16,2015-06-29,"""Toffee Crunch""", Caramel & Toffee Flavors,1,1,12,East,Jamshedpur 
+16,2015-06-29,"""Caramel Brownie""", Caramel & Toffee Flavors,1,1,20.75,Northeast,Guwahati 
+17,2015-06-29,"""Caramel Pecan""", Caramel & Toffee Flavors,1,1,20.75,Northeast,Imphal 
+17,2015-06-29,"""Butterscotch""", Caramel & Toffee Flavors,1,1,16.25,Northeast,Shillong 
+17,2015-06-29,"""Coconut Milk Vanilla""", Dairy-Free / Vegan Flavors,1,1,18.5,Northeast,Kohima 
+17,2015-06-29,"""Soy Chocolate""", Dairy-Free / Vegan Flavors,1,1,14.75,Northeast,Agartala 
+17,2015-06-29,"""Almond Milk Chocolate""", Dairy-Free / Vegan Flavors,1,2,16.5,Northeast,Aizawl 
+17,2015-06-29,"""Vegan Mango""", Dairy-Free / Vegan Flavors,1,2,12.75,Northeast,Itanagar 
+17,2015-06-29,"""Vegan Chocolate Chip""", Dairy-Free / Vegan Flavors,2,2,32,North,Agra 
+17,2015-06-29,"""Coconut Almond""", Dairy-Free / Vegan Flavors,1,1.25,20.25,North,Jaipur 
+17,2015-06-29,"""Vegan Matcha""", Dairy-Free / Vegan Flavors,1,1,12.5,North,Lucknow 
+17,2015-06-29,"""Vegan Coffee""", Dairy-Free / Vegan Flavors,1,1,20.25,Northeast,Imphal 
+18,2015-06-29,"""Pumpkin Spice (Autumn/Fall)""", Seasonal & Festive Flavors,1,1,20.5,Northeast,Shillong 
+19,2015-06-29,"""Eggnog (Winter Holidays)""", Seasonal & Festive Flavors,1,1,20.5,Northeast,Kohima 
+19,2015-06-30,"""Gingerbread (Holiday Season)""", Seasonal & Festive Flavors,1,1,20.25,East,Bhubaneswar 
+20,2015-08-20,"""Candy Cane (Christmas)""", Seasonal & Festive Flavors,1,1,12,South,Madurai 
+20,2015-08-20,"""Apple Pie""", Seasonal & Festive Flavors,1,1,18.5,North,Amritsar 
+21,2015-08-20,"""Maple Pecan""", Seasonal & Festive Flavors,1,1,20.5,North,Varanasi 
+22,2015-08-20,"""Chai Spice""", Seasonal & Festive Flavors,1,1,18.5,North,Shimla 
+22,2015-08-20,"""Taro (Common in Asian cuisines)""", Exotic & Regional Flavors,1,1,16,North,Jammu 
+22,2015-08-20,"""Matcha Green Tea (Japanese-inspired)""", Exotic & Regional Flavors,1,1,20.75,South,Chennai 
+23,2015-08-20,"""Red Bean (Sweet Azuki bean flavor, popular in East Asia)""", Exotic & Regional Flavors,1,1,12.75,South,Bangalore 
+24,2015-08-20,"""Lychee""", Exotic & Regional Flavors,1,1,16.75,South,Hyderabad 
+24,2015-08-20,"""Black Sesame""", Exotic & Regional Flavors,1,1,16,South,Coimbatore 
+24,2015-08-20,"""Saffron Pistachio""", Exotic & Regional Flavors,1,1,12.5,Northeast,Itanagar 
+24,2015-08-20,"""Kulfi (Indian traditional flavor, often with cardamom, pistachio, or rose)""", Exotic & Regional Flavors,1,1,12.5,North,Agra 
+25,2015-08-20,"""Macha Latte""", Exotic & Regional Flavors,1,2,16.25,North,Jaipur 
+25,2015-08-20,"""Coconut Pandan""", Exotic & Regional Flavors,1,2,20.75,North,Lucknow 
+26,2015-08-20,"""Caramel Swirl""", Swirl & Ribbon Flavors,1,2,12,Northeast,Imphal 
+26,2015-08-20,"""Peanut Butter Swirl""", Swirl & Ribbon Flavors,1,1.25,20.25,Northeast,Shillong 
+27,2015-08-20,"""Fudge Ripple""", Swirl & Ribbon Flavors,1,1.25,20.75,Northeast,Kohima 
+27,2015-08-20,"""Nutella Swirl""", Swirl & Ribbon Flavors,1,1,16,East,Bhubaneswar 
+27,2015-08-20,"""Cookie Dough Swirl""", Swirl & Ribbon Flavors,1,1,20.25,South,Madurai 
+28,2015-08-20,"""Marshmallow Ribbon""", Swirl & Ribbon Flavors,1,1,12.75,North,Shimla 
+29,2015-08-20,"""Jam Swirl (Raspberry, strawberry, etc.)""", Swirl & Ribbon Flavors,1,1,12,North,Jammu 
+30,2015-08-20,"""Strawberry Cheesecake""", Cheesecake-Based Flavors,1,1,20.75,South,Chennai 
+31,2015-08-20,"""Blueberry Cheesecake""", Cheesecake-Based Flavors,1,1,16,South,Bangalore 
+31,2015-08-20,"""Cherry Cheesecake""", Cheesecake-Based Flavors,1,1,9.75,South,Hyderabad 
+32,2015-05-11,"""Lemon Cheesecake""", Cheesecake-Based Flavors,1,2,12,South,Coimbatore 
+32,2015-05-11,"""Key Lime Cheesecake""", Cheesecake-Based Flavors,1,2,20.25,South,Kochi 
+32,2015-05-11,"""Chocolate Cheesecake""", Cheesecake-Based Flavors,1,2,20.5,South,Madurai 
+32,2015-05-11,"""Cotton Candy""", Specialty Flavors,1,1.25,16.5,South,Visakhapatnam 
+33,2015-05-11,"""Bubblegum""", Specialty Flavors,1,1,20.75,South,Thiruvananthapuram 
+33,2015-05-11,"""Birthday Cake""", Specialty Flavors,1,1,12,South,Mysore 
+34,2015-05-11,"""Lavender Honey""", Specialty Flavors,1,1,12,West,Mumbai 
+35,2015-05-11,"""Cinnamon""", Specialty Flavors,1,1,16,West,Pune 
+35,2015-05-11,"""Maple Bacon""", Specialty Flavors,1,1,17.5,West,Ahmedabad 
+35,2015-06-11,"""Mochi Ice Cream (Japanese-inspired)""", Specialty Flavors,1,1,12.5,West,Surat 
+35,2015-06-11,"""Sweet Potato""", Specialty Flavors,1,1,20.75,West,Goa 
+36,2015-06-11,"""Tiramisu""", Specialty Flavors,1,1,16.75,West,Nagpur 
+36,2015-06-11,"""Rice Pudding""", Specialty Flavors,1,1,16,West,Vadodara 
+37,2015-06-11,"""Donut Ice Cream""", Hybrid / Novelty Flavors,1,1,20.75,East,Kolkata 
+37,2015-06-11,"""Cereal Milk (Inspired by cereal like Fruity Pebbles or Cinnamon Toast Crunch)""", Hybrid / Novelty Flavors,1,1,20.25,East,Bhubaneswar 
+38,2015-06-11,"""Coconut Lime""", Hybrid / Novelty Flavors,1,1,10.5,East,Patna 
+38,2015-06-11,"""Cheeseburger Ice Cream (A novelty for adventurous eaters)""", Hybrid / Novelty Flavors,1,2,20.5,East,Ranchi 
+39,2015-06-11,"""Maple Bacon (Salty and sweet combo)""", Hybrid / Novelty Flavors,1,2,20.75,East,Guwahati 
+40,2015-06-11,"""Apple Cinnamon Donut""", Hybrid / Novelty Flavors,1,2,17.95,East,Shillong 
+40,2015-06-11,"""Chocolate Chili (Spicy and sweet)""", Hybrid / Novelty Flavors,1,1.25,12.75,East,Cuttack 
+41,2015-06-11,"""Peach Bellini (Inspired by the cocktail)""", Hybrid / Novelty Flavors,1,1.25,14.75,East,Jamshedpur 
+41,2015-06-11,"""Rum Raisin""", Alcohol-Infused Flavors,1,1,12,Northeast,Guwahati 
+42,2015-06-11,"""Bourbon Pecan""", Alcohol-Infused Flavors,1,1,12,Northeast,Imphal 
+42,2015-06-11,"""Bailey’s Irish Cream""", Alcohol-Infused Flavors,1,1,18.5,Northeast,Shillong 
+42,2015-06-11,"""Kahlúa Coffee""", Alcohol-Infused Flavors,1,1,20.25,South,Chennai 
+42,2015-12-31,"""Red Wine Sorbet""", Alcohol-Infused Flavors,1,1,16.5,South,Bangalore 
+43,2015-12-31,"""Champagne Sorbet""", Alcohol-Infused Flavors,1,1,16.75,West,Mumbai 
+43,2015-12-31,"""Pina Colada""", Alcohol-Infused Flavors,1,1,16.5,West,Pune 
+43,2015-12-31,"""Oreo Cookie""", Cookie and Biscuit-Inspired Flavors,1,2,20.75,East,Shillong 
+44,2015-12-31,"""Biscoff Cookie Butter""", Cookie and Biscuit-Inspired Flavors,1,2,12.5,East,Cuttack 
+45,2015-12-31,"""Chocolate Chip Cookie Dough""", Cookie and Biscuit-Inspired Flavors,1,2,17.95,South,Thiruvananthapuram 
+45,2015-12-31,"""Cookies and Cream""", Cookie and Biscuit-Inspired Flavors,1,1,10.5,South,Mysore 
+45,2015-12-31,"""Snickerdoodle""", Cookie and Biscuit-Inspired Flavors,1,2,16.75,West,Mumbai 
+46,2015-12-31,"""Graham Cracker""", Cookie and Biscuit-Inspired Flavors,1,2,20.75,West,Pune 
+46,2015-12-31,"""Peanut Butter Cookie""", Cookie and Biscuit-Inspired Flavors,1,2,20.5,East,Cuttack 
+46,2015-12-31,"""Cotton Candy""", Candy-Inspired Flavors,1,1.25,16.75,East,Jamshedpur 
+47,2016-01-01,"""Fruity Pebbles""", Candy-Inspired Flavors,1,1.25,20.75,Northeast,Guwahati 
+47,2016-01-02,"""Gummy Bear""", Candy-Inspired Flavors,1,1,12,Northeast,Imphal 
+48,2016-01-03,"""M&Ms""", Candy-Inspired Flavors,1,1,16.75,Northeast,Shillong 
+48,2016-01-04,"""Taffy""", Candy-Inspired Flavors,1,1,12,South,Chennai 
+48,2016-01-05,"""Jelly Bean""", Candy-Inspired Flavors,1,1,20.75,South,Bangalore 
+48,2016-01-06,"""Candy Bar Mashup (Snickers, Mars, etc.)""", Candy-Inspired Flavors,1,1,20.75,West,Mumbai 
